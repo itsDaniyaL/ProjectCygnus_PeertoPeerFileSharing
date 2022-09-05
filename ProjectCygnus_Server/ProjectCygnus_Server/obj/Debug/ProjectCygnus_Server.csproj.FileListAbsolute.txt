@@ -1,0 +1,10 @@
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Server\ProjectCygnus_Server\bin\Debug\ProjectCygnus_Server.exe.config
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Server\ProjectCygnus_Server\bin\Debug\ProjectCygnus_Server.exe
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Server\ProjectCygnus_Server\bin\Debug\ProjectCygnus_Server.pdb
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Server\ProjectCygnus_Server\obj\Debug\ProjectCygnus_Server.csprojAssemblyReference.cache
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Server\ProjectCygnus_Server\obj\Debug\ProjectCygnus_Server.Form1.resources
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Server\ProjectCygnus_Server\obj\Debug\ProjectCygnus_Server.Properties.Resources.resources
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Server\ProjectCygnus_Server\obj\Debug\ProjectCygnus_Server.csproj.GenerateResource.cache
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Server\ProjectCygnus_Server\obj\Debug\ProjectCygnus_Server.csproj.CoreCompileInputs.cache
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Server\ProjectCygnus_Server\obj\Debug\ProjectCygnus_Server.exe
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Server\ProjectCygnus_Server\obj\Debug\ProjectCygnus_Server.pdb

@@ -1,0 +1,10 @@
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Peer\ProjectCygnus_Peer\bin\Debug\ProjectCygnus_Peer.exe.config
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Peer\ProjectCygnus_Peer\bin\Debug\ProjectCygnus_Peer.exe
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Peer\ProjectCygnus_Peer\bin\Debug\ProjectCygnus_Peer.pdb
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Peer\ProjectCygnus_Peer\obj\Debug\ProjectCygnus_Peer.csprojAssemblyReference.cache
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Peer\ProjectCygnus_Peer\obj\Debug\ProjectCygnus_Peer.Form1.resources
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Peer\ProjectCygnus_Peer\obj\Debug\ProjectCygnus_Peer.Properties.Resources.resources
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Peer\ProjectCygnus_Peer\obj\Debug\ProjectCygnus_Peer.csproj.GenerateResource.cache
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Peer\ProjectCygnus_Peer\obj\Debug\ProjectCygnus_Peer.csproj.CoreCompileInputs.cache
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Peer\ProjectCygnus_Peer\obj\Debug\ProjectCygnus_Peer.exe
+C:\Users\itsDaniyaL\source\repos\ProjectCygnus_Peer\ProjectCygnus_Peer\obj\Debug\ProjectCygnus_Peer.pdb
